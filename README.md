@@ -29,4 +29,7 @@ Contributors should read the installation section.
 ## Tests
 Run `npm test` to run Jest for tests on constructors. 
 
+##TUTORIAL LINK 
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/82aded0f-0766-41a1-y62a-2b7a54144c49
+
 <img width="1440" alt="Screen Shot 2022-09-18 at 11 18 51 PM" src="https://user-images.githubusercontent.com/106297412/190959684-38767293-be64-453a-99f5-eda3123de268.png">
