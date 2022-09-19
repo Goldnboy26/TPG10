@@ -15,6 +15,7 @@ This application was created to generate a team profile based on user input usin
 
 ## Installation 
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest. 
+https://drive.google.com/file/d/1bbdJU-WvpO0-jh57KACGdw37ErvaNXxP/view
 
 ## Usage 
 Use inquirer from your command line to answer questions about your project.
@@ -28,8 +29,5 @@ Contributors should read the installation section.
 
 ## Tests
 Run `npm test` to run Jest for tests on constructors. 
-
-##TUTORIAL LINK 
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/82aded0f-0766-41a1-y62a-2b7a54144c49
 
 <img width="1440" alt="Screen Shot 2022-09-18 at 11 18 51 PM" src="https://user-images.githubusercontent.com/106297412/190959684-38767293-be64-453a-99f5-eda3123de268.png">
